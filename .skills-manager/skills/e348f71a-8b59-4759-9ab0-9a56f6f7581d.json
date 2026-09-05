@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e348f71a-8b59-4759-9ab0-9a56f6f7581d",
+  "path": "web-perf",
+  "path_key": "web-perf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "54b7bee4-6190-4b0d-9f72-898233c171cc",
+  "path": "remotion-captions",
+  "path_key": "remotion-captions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "remotion-dev/skills/remotion-captions",
+    "subpath": "skills/remotion-captions",
+    "branch": null
+  }
+}

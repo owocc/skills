@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8ee34030-00c2-43e3-bcf9-2eebc2bfb223",
+  "path": "pua",
+  "path_key": "pua",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

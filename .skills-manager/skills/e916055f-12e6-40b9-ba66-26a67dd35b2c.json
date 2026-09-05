@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e916055f-12e6-40b9-ba66-26a67dd35b2c",
+  "path": "add-sfx",
+  "path_key": "add-sfx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "remotion-dev/remotion/add-sfx",
+    "subpath": ".agents/skills/add-sfx",
+    "branch": null
+  }
+}

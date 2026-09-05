@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e72f19e7-b0ae-49aa-a5ae-8cc8cb808597",
+  "path": "writing-docs",
+  "path_key": "writing-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "remotion-dev/remotion/writing-docs",
+    "subpath": ".agents/skills/writing-docs",
+    "branch": null
+  }
+}

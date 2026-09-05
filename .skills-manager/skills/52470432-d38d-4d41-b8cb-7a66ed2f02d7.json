@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "52470432-d38d-4d41-b8cb-7a66ed2f02d7",
+  "path": "opencli-browser",
+  "path_key": "opencli-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

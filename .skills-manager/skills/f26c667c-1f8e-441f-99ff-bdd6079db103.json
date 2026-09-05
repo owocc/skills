@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f26c667c-1f8e-441f-99ff-bdd6079db103",
+  "path": "durable-objects",
+  "path_key": "durable-objects",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

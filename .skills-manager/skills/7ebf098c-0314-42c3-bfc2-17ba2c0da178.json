@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ebf098c-0314-42c3-bfc2-17ba2c0da178",
+  "path": "web-renderer-test",
+  "path_key": "web-renderer-test",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "remotion-dev/remotion/web-renderer-test",
+    "subpath": ".agents/skills/web-renderer-test",
+    "branch": null
+  }
+}

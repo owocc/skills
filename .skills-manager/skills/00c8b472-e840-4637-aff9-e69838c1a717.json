@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00c8b472-e840-4637-aff9-e69838c1a717",
+  "path": "agents-docs-index",
+  "path_key": "agents-docs-index",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

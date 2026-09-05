@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "909e9953-ea7e-4a5f-9c70-9cedf3af04ba",
+  "path": "reverse-skill-router",
+  "path_key": "reverse-skill-router",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/zhaoxuya520/reverse-skill",
+    "subpath": "skills",
+    "branch": null
+  }
+}

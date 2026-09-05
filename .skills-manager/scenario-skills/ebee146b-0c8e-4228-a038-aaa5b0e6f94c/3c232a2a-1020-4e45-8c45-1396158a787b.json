@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scenario_id": "ebee146b-0c8e-4228-a038-aaa5b0e6f94c",
+  "skill_id": "3c232a2a-1020-4e45-8c45-1396158a787b",
+  "sort_order": 10,
+  "tools": {
+    "claude_code": true,
+    "codebuddy": true,
+    "codex": true,
+    "command_code": true,
+    "deepseek_harness": true,
+    "gemini_cli": true,
+    "github_copilot": true,
+    "kimi": true,
+    "omp_agent": true,
+    "opencode": true,
+    "pi": true,
+    "qoder": true,
+    "trae": true,
+    "workbuddy": true,
+    "zcode": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4c6aa77-bc15-4b8b-b521-1156fcd50849",
+  "path": "gsap-performance",
+  "path_key": "gsap-performance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "greensock/gsap-skills/gsap-performance",
+    "subpath": "skills/gsap-performance",
+    "branch": null
+  }
+}

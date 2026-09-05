@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9495aa81-0d52-4aa0-a324-3fae18e43d63",
+  "path": "gpui-kit-design-guides",
+  "path_key": "gpui-kit-design-guides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "longbridge/gpui-kit/gpui-kit-design-guides",
+    "subpath": "skills/gpui-kit-design-guides",
+    "branch": null
+  }
+}
