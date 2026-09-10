@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "scenario_id": "3e1c7957-86cc-41c7-b88b-2e279d129c0a",
+  "skill_id": "e937c693-73d1-4a9f-b549-06c01dcd6ae4",
+  "sort_order": 0,
+  "tools": {
+    "omp_agent": true,
+    "pi": true,
+    "workbuddy": true
+  }
+}

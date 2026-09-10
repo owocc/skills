@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a54d5936-0fd2-476d-9f9d-3daa0f5db053",
+  "path": "ip-as-logo",
+  "path_key": "ip-as-logo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

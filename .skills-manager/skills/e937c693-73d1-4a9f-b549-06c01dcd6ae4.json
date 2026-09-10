@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e937c693-73d1-4a9f-b549-06c01dcd6ae4",
+  "path": "dokobot",
+  "path_key": "dokobot",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

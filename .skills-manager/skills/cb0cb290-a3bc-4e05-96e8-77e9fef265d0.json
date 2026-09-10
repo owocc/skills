@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb0cb290-a3bc-4e05-96e8-77e9fef265d0",
+  "path": "logo-generator",
+  "path_key": "logo-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
