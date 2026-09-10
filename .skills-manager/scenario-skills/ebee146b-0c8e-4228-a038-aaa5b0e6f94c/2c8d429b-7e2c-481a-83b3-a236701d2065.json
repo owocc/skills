@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "scenario_id": "ebee146b-0c8e-4228-a038-aaa5b0e6f94c",
-  "skill_id": "d87f650e-75a9-4899-a8a9-d58258ebe56e",
+  "skill_id": "2c8d429b-7e2c-481a-83b3-a236701d2065",
   "sort_order": 1,
   "tools": {
     "omp_agent": true,
